@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "نازلی فینگر فود",
+      "hasCanvas": false,
+      "bodyTextLen": 4475,
+      "bodyTextHash": "bcf1fb26d6ee44c4566dfaf2ac6dd7bd4449449e1193ad4524b1576aadbe09a8",
+      "bodyTextPrefix": "نازلی فینگر فود منو قصهٔ ما تماس تماس سفارش مهمونی‌ش با شما خوشم",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "نازلی فینگر فود",
+      "hasCanvas": false,
+      "bodyTextLen": 4447,
+      "bodyTextHash": "38c0903ccd81aca6b84cac1bc98351666eac03caab26b6e846793b486409ea14",
+      "bodyTextPrefix": "نازلی فینگر فود مهمونی‌ش با شما خوشمزه‌هاش با ما سینی مزه، فینگر",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
